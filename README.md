@@ -1,24 +1,17 @@
-# classapp4carwash
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+##  Name
 ```
-npm run serve
+Frank Mwaniki 
 ```
 
-### Compiles and minifies for production
+### Project Name
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+Vue Car wash webpage
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+```
+simple car wash website built using Vue where user can book and check out services provided by the carwash company.
+***This website has only user interface with No Admin Dashboard at the moment.
+```
